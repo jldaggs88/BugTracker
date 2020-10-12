@@ -1,0 +1,19 @@
+{
+  "name": "ircbot",
+  "version": "1.0.0",
+  "description": "Bug Tracker for Development Teams",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessa Daggs",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cosmos": "^3.9.2",
+    "dotenv": "^8.2.0",
+    "irc": "^0.5.2"
+  },
+  "engines": {
+    "node": ">=5.6.0"
+  }
+}
